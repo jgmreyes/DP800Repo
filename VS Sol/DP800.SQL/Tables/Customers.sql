@@ -3,5 +3,5 @@
     [CustomerID] INT NOT NULL PRIMARY KEY
     , [FirstName] NVARCHAR(50) NOT NULL
     , [LastName] NVARCHAR(50) NOT NULL
-    , [Email] NVARCHAR(1009) NULL
+    , [Email] NVARCHAR(1100) NULL
 );
